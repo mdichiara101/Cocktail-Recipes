@@ -17,6 +17,10 @@ Each one of the tab views will result in the user selecting a single cocktail re
 Things Im debating on implementing: Entire new tab view that shows a grid of ingredients the User can check and then will display a list of cocktails containing those ingredients. To fully implement MVVM structure once I learn more about it through experience.
 
 Technologies: - SwiftUI - Xcode - JSON API - CocoaPods - Structure Attempt: MVVM 
+Entire App
+-
+https://user-images.githubusercontent.com/57690548/113374717-55617e80-9333-11eb-849b-3618302292cc.mov
+
 
 Random View
 -
