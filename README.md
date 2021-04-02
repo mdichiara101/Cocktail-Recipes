@@ -36,10 +36,10 @@ Category View & Selected Category View
 
 Search View
 -
-Search By Ingredient
+
 ![2021-04-01 22 11 20](https://user-images.githubusercontent.com/57690548/113376401-4250ad80-9337-11eb-9a11-6093d2999fb9.gif)
 
-Search By Name
+
 ![2021-04-01 22 26 49](https://user-images.githubusercontent.com/57690548/113377257-6a411080-9339-11eb-946f-4279e9f400ec.gif)
 
 
