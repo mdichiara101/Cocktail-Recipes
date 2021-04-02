@@ -24,28 +24,24 @@ Random View
 
 
 
-
-<img width="441" alt="RandomView" src="https://user-images.githubusercontent.com/57690548/113372002-3eb82900-932d-11eb-85b3-52adf7ff7b61.png">
-
 All Cocktail Recipes View
 -
-<img width="441" alt="AllCocktailRecipesView" src="https://user-images.githubusercontent.com/57690548/113372068-6c04d700-932d-11eb-9866-754f1fec8b2c.png">
+![2021-04-01 22 07 09](https://user-images.githubusercontent.com/57690548/113376184-bc346700-9336-11eb-8193-637b2d233167.gif)
 
-Category View
--
-<img width="441" alt="CategoryView" src="https://user-images.githubusercontent.com/57690548/113372137-8f2f8680-932d-11eb-92f9-c439290864e4.png">
 
-Selected Category View
+Category View & Selected Category View
 -
-<img width="397" alt="SelectedCategoryView" src="https://user-images.githubusercontent.com/57690548/113372279-e9c8e280-932d-11eb-9b90-da3ea5684b43.png">
+![2021-04-01 22 09 15](https://user-images.githubusercontent.com/57690548/113376295-faca2180-9336-11eb-98c7-05b1c82f36ae.gif)
+
 
 Search View
 -
-<img width="397" alt="SearchView1" src="https://user-images.githubusercontent.com/57690548/113372339-13820980-932e-11eb-9906-941b9e4dda9f.png">
-search by ingredient
-<img width="397" alt="SearchView2" src="https://user-images.githubusercontent.com/57690548/113372451-5cd25900-932e-11eb-832c-a517c51d615f.png">
-search by name
-<img width="397" alt="SearchView3" src="https://user-images.githubusercontent.com/57690548/113372467-665bc100-932e-11eb-9c6d-6fbb029c4e36.png">
+Search By Ingredient
+![2021-04-01 22 11 20](https://user-images.githubusercontent.com/57690548/113376401-4250ad80-9337-11eb-9a11-6093d2999fb9.gif)
+
+Search By Name
+![2021-04-01 22 26 49](https://user-images.githubusercontent.com/57690548/113377257-6a411080-9339-11eb-946f-4279e9f400ec.gif)
+
 
 Cocktail View
 -
