@@ -20,7 +20,8 @@ Technologies: - SwiftUI - Xcode - JSON API - CocoaPods - Structure Attempt: MVVM
 
 Random View
 -
-![2021-04-01 22 01 59](https://user-images.githubusercontent.com/57690548/113375859-fc471a00-9335-11eb-9b3b-8891052437fb.gif)
+![2021-04-01 22 03 47](https://user-images.githubusercontent.com/57690548/113375965-3adcd480-9336-11eb-80e7-6ea87b4d0edb.gif)
+
 
 
 
